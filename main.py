@@ -1,5 +1,7 @@
+from math import*
+
+
 if __name__ == '__main__':
-    from math import*
     print('Для решения уравнения ax^2+bx+c=0')
     a=float(input('введите коэффицинет a: '))
     b=float(input('введите коэффицинет b: '))
